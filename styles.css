@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://vignette.wikia.nocookie.net/king-harkinian/images/e/e1/Lord_Gaben.png/revision/latest?cb=2015120621064");
+    background-repeat: no-repeat;
+    background-color: lightgreen;
+    color: white;
+    text-align: center;
+}
+
+.input {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.cart {
+    display: flex;
+    justify-content: space-around;
+}
